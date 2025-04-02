@@ -5,7 +5,7 @@ In the code are spots for your FreePBX host name (FQDN or IP address), username,
 
 You will need to set up a user from the SQL command line within the FreePBX server and grant select privileges on:
 
-asterisk.ivr_entries
-asterisk.ivr_details
-asterisk.incoming
+asterisk.ivr_entries<br />
+asterisk.ivr_details<br />
+asterisk.incoming<br />
 asteriskcdrdb.cdr
