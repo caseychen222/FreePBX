@@ -64,7 +64,7 @@ class IVRStatistics:
                 host = "HOSTNAME",
                 user = "USERNAME",
                 password = "PASSWORD",
-                db = "DATABASE",
+                db = "asterisk",
                 )
         self.cur = self.connection.cursor()
 
